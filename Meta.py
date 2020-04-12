@@ -1,0 +1,3 @@
+
+TRIALS = 100
+EPOCHS = 100
